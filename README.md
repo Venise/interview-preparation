@@ -1,13 +1,13 @@
 ## interview-preparation
 ### Android
-* 郭霖   http://blog.csdn.net/guolin_blog/article/details/11952435
+* 郭  霖   http://blog.csdn.net/guolin_blog/article/details/11952435
 * 魏祝林 http://blog.csdn.net/android_tutor/article/details/5789203
-* 鸿洋   http://blog.csdn.net/lmj623565791
+* 鸿  洋   http://blog.csdn.net/lmj623565791
 * 夏安明 http://blog.csdn.net/xiaanming
 * 张国威 http://blog.csdn.net/hellogv
 * 杨海龙 http://www.cnblogs.com/TerryBlog/
-* 吴茜   http://blog.csdn.net/yiyaaixuexi/article/details/7044415
-* 小一   http://blog.csdn.net/zinss26914/article/category/1921181/2
+* 吴  茜   http://blog.csdn.net/yiyaaixuexi/article/details/7044415
+* 小  一   http://blog.csdn.net/zinss26914/article/category/1921181/2
 
 ### 面经笔试
 * 七月算法  
@@ -27,6 +27,7 @@
 
 ### 刷题平台
 * 华为OJ    http://117.78.7.99/exam/camLogin.jsp
+* 九度OJ    http://ac.jobdu.com/
 * 牛客网    http://www.nowcoder.com/441682
 * LeetCode  https://leetcode.com/
 
